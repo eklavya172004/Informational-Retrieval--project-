@@ -1,1 +1,1 @@
-# Informational-Retrieval--project-
+# Informational-Retrieval-MEDICAL RAG
