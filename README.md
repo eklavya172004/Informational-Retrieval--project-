@@ -1,1 +1,0 @@
-# Informational-Retrieval-MEDICAL RAG
